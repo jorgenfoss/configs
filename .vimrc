@@ -432,3 +432,6 @@ endfunction
 "endif
 execute pathogen#infect()
 call pathogen#helptags()
+
+" Start NERDTree at startup
+autocmd vimenter * NERDTree
