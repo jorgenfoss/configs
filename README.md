@@ -17,6 +17,8 @@ git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
 ```
 
 # These configuration files
-```cd ~
+```
+cd ~
 git clone https://github.com/jorgenfoss/configs.git
-./config/install.sh```
+./config/install.sh
+```
