@@ -4,6 +4,7 @@ My configuration files for
 - bash
 - vim
 - ls
+- tmux
 
 # About
 Will add configuration files in `~/configs/`, backup old configuration files, and create symlinks in home directory to these new ones. 
